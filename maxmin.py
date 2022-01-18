@@ -1,7 +1,7 @@
 # maxmin.py
 
 # 1. feladat
-# Melyik a legkisebb elem?
+# Melyik a legnagyobb elem?
 def feladat01() -> int:
     szamok = [-21, 15, 4, -1, 3, -3, 51, 11, -41, 51, 8, 31, -11, 9, -4, 9, -2, -10]
     return 0
